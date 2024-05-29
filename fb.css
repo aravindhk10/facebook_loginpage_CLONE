@@ -1,0 +1,170 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica Neue,Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 36px;
+    float: left;
+}
+
+.login{
+    
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    
+}
+
+.logo-text{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue,Arial, Helvetica, sans-serif;
+    margin-left: 173px;
+}
+.login-text{
+    color: white;
+    font-size: 11px;
+    float: left;
+
+}
+
+.login-controls{
+    margin-left: 117px;
+}
+
+.forgotpassword{
+    color: #9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+}
+
+.login-btn{
+    background: #4267b2;
+    color: white;
+    border-color: #29487d;
+    height: 20px;
+    cursor: pointer;
+}
+
+.login-btn:hover{
+    background: #365899;
+}
+
+.fb-image{
+    width: 46%;
+    float: left;
+    padding-left: 149px;
+    padding-top: 24px;
+}
+
+
+.register{
+    padding-top: 20px;
+    width: 39%;
+    float: left;
+}
+
+.main-body{
+    background: linear-gradient(white, #d3d8e8);
+    width: 100%;
+    height: 500px;
+}
+
+.img-net{
+    width: 501px;;
+}
+
+.para{
+    font-family: Helvetica Neue,Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 21px;
+}
+
+.small{
+    font-size: 20px;
+    font-family: Helvetica Neue,Arial, Helvetica, sans-serif;
+}
+
+.large{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.name{
+    width: 159px;
+    height: 24px;
+    border-radius: 4px;
+    border-color: rgba(122, 126, 124, 0.26);
+}
+
+.details{
+    width: 343px;
+    height: 24px;
+    border-radius: 4px;
+    border-color:rgba(122, 126, 124, 0.26)
+}
+
+.brth{
+    height: 24px;
+    border-radius: 4px;
+    border-color:rgba(122, 126, 124, 0.26)
+}
+
+.help{
+    background: #535456;
+    border-radius: 50%;
+    border-color: #535456;
+    color: white;
+    font-size: 10px;
+    height: 15px;
+    width: 15px;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    
+}
+.Terms{
+    font-size: 10px;
+    color: #9cb4d8;
+}
+
+.tt{
+    text-decoration: none;
+}
+
+.signup{
+    background: #3f9e08;
+    width:159px;
+    height: 34px;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.footer{
+    font-size: 11px;
+}
+
+.lang{
+    text-decoration: none;
+    color:  #29487d;
+}
+
+.footer-links{
+    text-decoration: none;
+    color: #29487d ;
+}
